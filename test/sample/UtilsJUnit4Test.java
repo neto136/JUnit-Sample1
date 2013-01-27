@@ -68,7 +68,7 @@ public class UtilsJUnit4Test {
         System.out.println(factorialOf + "! = " + Utils.computeFactorial(factorialOf));
     }
 
-    /**
+    /** 
      * Test of normalizeWord method, of class Utils.
      */
     @Ignore
